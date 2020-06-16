@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5664D97A2497B5550089ED9E /* FileNotebook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5664D9792497B5550089ED9E /* FileNotebook.swift */; };
 		56FF25F3249753DD00E5518E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56FF25F2249753DD00E5518E /* AppDelegate.swift */; };
 		56FF25F5249753DE00E5518E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56FF25F4249753DE00E5518E /* SceneDelegate.swift */; };
 		56FF25F7249753DE00E5518E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56FF25F6249753DE00E5518E /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5664D9792497B5550089ED9E /* FileNotebook.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileNotebook.swift; sourceTree = "<group>"; };
 		56FF25EF249753DD00E5518E /* BestNotesYandex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BestNotesYandex.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		56FF25F2249753DD00E5518E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		56FF25F4249753DE00E5518E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 			children = (
 				56FF26072497593000E5518E /* Note.swift */,
 				56FF260924975D1800E5518E /*  NoteExtension.swift */,
+				5664D9792497B5550089ED9E /* FileNotebook.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5664D97A2497B5550089ED9E /* FileNotebook.swift in Sources */,
 				56FF25F7249753DE00E5518E /* ViewController.swift in Sources */,
 				56FF25F3249753DD00E5518E /* AppDelegate.swift in Sources */,
 				56FF260A24975D1800E5518E /*  NoteExtension.swift in Sources */,
